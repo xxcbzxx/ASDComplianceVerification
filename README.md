@@ -17,14 +17,11 @@ https://www.asd.gov.au/publications/protect/essential-eight-explained.htm
     * Check browser version && browser 
     * Check installed plugins 
         * Check for ad blockers
-
     * Check operating system (version)
         * Check OS patch information 
-        
     * Check foreign file execution 
     * Check user priviliages (OS)
     * Check Microsoft macros 
-    
     * Check host encryption 
     * Check for bitlocker 
     
